@@ -2,10 +2,11 @@
 
 For more details about Leyenda, refer to our [paper](/paper/leyenda.pdf)
 
-## Team Member:
+## Authors:
 + Yuanjing Shi
 + Zhaoxing Li
 + Tiark Rompf (advisor)
 
-## Thrid party libs
-- radix sort: https://github.com/voutcn/kxsort
+## Reference
+- Radix Sort: https://github.com/voutcn/kxsort
+- Sorting Benchmark: http://sortbenchmark.org
